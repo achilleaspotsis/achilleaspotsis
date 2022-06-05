@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Achilleas Potsis</h1>
 <h3 align="left">A passionate Web Developer from Greece</h3>
 
+- 🌱 🔭 I’m currently working on **something cool 😉**
+
 - 🌱 I’m currently learning **everything related with Javascript**
 
 - 📫 How to reach me **potsisachilleas@gmail.com**
