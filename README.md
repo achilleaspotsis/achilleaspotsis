@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋,</h1>
+<h1 align="left">Hi there 👋,</h1>
 <p>I'm Achilleas, a passionate Web Developer from Greece</p>
 
 - 🔭 I’m currently working on **something cool 😉**
