@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Achilleas Potsis</h1>
 <h3 align="center">A passionate web developer from Greece</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=achilleaspotsis&label=Profile%20views&color=0e75b6&style=flat" alt="achilleaspotsis" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achilleaspotsis" alt="achilleaspotsis" /></a> </p>
-
 - 🌱 I’m currently learning **everything related with Javascript**
 
 - 📫 How to reach me **potsisachilleas@gmail.com**
