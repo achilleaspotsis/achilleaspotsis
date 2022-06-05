@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Achilleas Potsis</h1>
-<h3 align="center">A passionate Web Developer from Greece</h3>
+<h1 align="left">Hi 👋, I'm Achilleas Potsis</h1>
+<h3 align="left">A passionate Web Developer from Greece</h3>
 
 - 🌱 I’m currently learning **everything related with Javascript**
 
