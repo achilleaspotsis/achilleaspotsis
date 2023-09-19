@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋,</h1>
-<p>I'm Achilleas Potsis, a passionate Web Developer from Greece</p>
+<p>I'm Achilleas Potsis, a passionate Full Stack Developer from Greece</p>
 
 - 🔭 I’m currently working on **something cool 😉**
 
